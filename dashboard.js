@@ -1,1 +1,1 @@
-console.log("Navigate to the Dashboard");
+console.log("Navigate to Dashboard");
